@@ -72,7 +72,7 @@ Length of event (including check in of attendees): 3 hours
 ---
 
 ### Roles & Responsibilities
-![img](http://i169.photobucket.com/albums/u229/m9m9/WIT/table1.png)
+![img](http://i.cubeupload.com/PlzIS2.png)
 
 ---
 
