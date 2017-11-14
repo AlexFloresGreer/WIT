@@ -221,7 +221,6 @@ Allow for at least 30% over maximum capacity for attendee RSVP’s as you will h
 - **Calendar Invites (speakers and facilitators only).** As soon as the speakers and facilitators have been selected, send them a calendar invite with the location and specific time you need them to arrive. Speakers will have their own invitation while the facilitators can be grouped together in a single invite. Please ask host, speakers, and facilitators to arrive 1 hour early. Monitor the responses to be sure everyone has confirmed.
 - **Event Signage.** Create event sign(s) to direct your attendees to your venue the day of the event.
 
-### Planning Logistics (continued)
 - **Check-in attendee template.** Create a spreadsheet to check in your attendees the day of the event. Your check-in data should include name, email and company affiliation. In addition to receiving a name tag, the event check in volunteer will also let the attendee know which table they will be seated at for dinner. Lastly, you also have the option of requesting if they are interested in hearing about job opportunities upon checking in.
 
 - **Facilitator Table Arrangement.** Facilitators will sit two per each table. Try to seat facilitators at tables and with attendees that will correspond to their profession or technical background (i.e. the mobile, infrastructure, test, “Product table,” an “Engineering Table, etc.). With last-minute drop-offs, this likely won’t work out perfectly, so just do the best you can.
