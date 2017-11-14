@@ -9,19 +9,32 @@ Andrea Carlos
 
 
 ### Table of Contents
-Goal and Agenda						 3
-Event Agenda (long version) 				 4
+Goal and Agenda	3
+
+Event Agenda (long version) 4
+
 WomenConnect Roles & Responsibilities			 5
+
 WomenConnect Facilitator's Responsibilities		 6
+
 WomenConnect Selection 					 7
-WomenConnect Discussion Topics	       8			
-Talent Acquisition                      9
+
+WomenConnect Discussion Topics	       8
+
+Talent Acquisition    9
+
 Invitations							12
-Planning Logistics		                 		     13 - 14
+
+Planning Logistics		    13 - 14
+
 Swag 								15
+
 Timeline of Key Actions					16
+
 Event Prep & Training Meetings				17
+
 Day of Event Schedule					18
+
 Survey								19
 
 
