@@ -1,4 +1,4 @@
-![img](http://i169.photobucket.com/albums/u229/m9m9/WIT/Picture1.png)
+![img](http://i.cubeupload.com/lnAqAp.png)
 ## WomenConnect External Event Playbook
  			
 Liz Morgan
