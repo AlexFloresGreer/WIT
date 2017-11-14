@@ -245,7 +245,7 @@ _Note: Don’t forget to think about packaging of the giveaway item! If the vend
 ---
 
 ### Timeline of Key Actions
-Insert #16
+![img](http://u.cubeupload.com/ratona14/timelineOfActions16.png)
 
 ---
 
