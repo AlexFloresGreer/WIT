@@ -2,40 +2,43 @@
 ## WomenConnect External Event Playbook
  			
 Liz Morgan
+
 Alyssa Leong
+
 Andrea Carlos
+
 
 ---
 
 
 ### Table of Contents
-Goal and Agenda	3
+Goal and Agenda	**3**
 
-Event Agenda (long version) 4
+Event Agenda (long version) **4**
 
-WomenConnect Roles & Responsibilities			 5
+WomenConnect Roles & Responsibilities			 **5**
 
-WomenConnect Facilitator's Responsibilities		 6
+WomenConnect Facilitator's Responsibilities		 **6**
 
-WomenConnect Selection 					 7
+WomenConnect Selection 					 **7**
 
-WomenConnect Discussion Topics	       8
+WomenConnect Discussion Topics	       **8**
 
-Talent Acquisition    9
+Talent Acquisition   **9**
 
-Invitations							12
+Invitations							**12**
 
-Planning Logistics		    13 - 14
+Planning Logistics		    **13 - 14**
 
-Swag 								15
+Swag 								**15**
 
-Timeline of Key Actions					16
+Timeline of Key Actions					**16**
 
-Event Prep & Training Meetings				17
+Event Prep & Training Meetings				**17**
 
-Day of Event Schedule					18
+Day of Event Schedule					**18**
 
-Survey								19
+Survey								**19**
 
 
 ---
