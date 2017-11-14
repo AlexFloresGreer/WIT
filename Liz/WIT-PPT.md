@@ -76,9 +76,7 @@ Length of event (including check in of attendees): 3 hours
 
 - A WomenConnect host, speaker or facilitator will ask each table to take a turn and share key points and best practices from their table discussions  with the broader group. 
 
----
-
-### Networking (until close) - 30 minutes
+#### Networking (until close) - 30 minutes
 
 - WomenConnect saves the best for last - networking! After the attendees have had a chance to meet and create rapport with each other, the networking portion of the event is scheduled towards the end - so attendees have a chance to continue the conversation
 
